@@ -40,22 +40,22 @@ public class TestOverloading {
 		
 	// Gleiche Signatur 3 | Parameter ?
 	// public void sayHello2(String name, int counter) {
-	// 	//System.out.println("Parameter name: " + name + " | Parameter: counter: " + counter);
+	// 	System.out.println("Parameter name: " + name + " | Parameter: counter: " + counter);
 	// }
 	
 	// public void sayHello2(String name, int counter) {
-	// 	//System.out.println("Parameter name: " + name + " | Parameter: counter: " + counter);
+	// 	System.out.println("Parameter name: " + name + " | Parameter: counter: " + counter);
 	// }
 
 	
 	
 	// Gleiche Signatur 3 | Parameter Namen ?
 	// public void sayHello2(String name, int counter) {
-	// 	//System.out.println("Parameter name: " + name + " | Parameter: counter: " + counter);
+	// 	System.out.println("Parameter name: " + name + " | Parameter: counter: " + counter);
 	// }
 	
 	// public void sayHello2(String pString, int pCount) {
-	// 	//System.out.println("Parameter name: " + name + " | Parameter: counter: " + counter);
+	// 	System.out.println("Parameter name: " + name + " | Parameter: counter: " + counter);
 	// }
 	
 	
